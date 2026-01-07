@@ -20,3 +20,8 @@ model/modeltest*
 server.go
 vendor
 test.sh
+.claude
+CLAUDE.md
+report.md
+report.html
+*.html
